@@ -1,0 +1,8 @@
+site_name: "managements-system-react"
+site_description: "Management systems for fixed amount and depreciating values"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
