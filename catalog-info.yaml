@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "managements-system-react"
-  description: "Management systems for fixed amount and depreciating values"
+  description: "Management systems for fixed amount and depreciating the asserts values"
   annotations:
     github.com/project-slug: Shivakumar-2020/backstage-react-management
     backstage.io/techdocs-ref: dir:.
