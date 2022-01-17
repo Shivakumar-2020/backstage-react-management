@@ -11,4 +11,9 @@ spec:
   lifecycle: experimental
   owner: "team-a"
   system: "react application"
-  tags : "UI ,Web, react, nodejs,TypeScript"
+  tags : 
+      - UI 
+      - Web
+      - react
+      - nodejs
+      - TypeScript
